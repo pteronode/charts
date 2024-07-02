@@ -24,7 +24,7 @@ version: 0.1.0
 appVersion: "0.1.0"
 dependencies:
 - name: mariadb
-  version: "11.5.7"
+  version: "18.2.6"
   repository: https://charts.bitnami.com/bitnami
 - name: redis
   version: "17.17.1"
