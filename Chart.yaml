@@ -27,5 +27,5 @@ dependencies:
   version: "11.5.7"
   repository: https://charts.bitnami.com/bitnami
 - name: redis
-  version: "17.17.1"
+  version: "19.6.4"
   repository: https://charts.bitnami.com/bitnami
